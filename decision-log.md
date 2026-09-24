@@ -109,3 +109,8 @@
 
 - **New default view at the user's request (v22):** each topic opens on a Layer Map (one card per chain node: plain product line, up to five companies with tickers, a line drawing for hardware layers, red frame on the bottleneck). Causal chain and Financial Layer stay as the second and third views. New node fields `product`, `icon`, `role` (both / gate / capture) added to all six topics from existing content; nothing re-researched.
 - **Role calls written down for the first time:** gate-and-capture: local-llm-memory DRAM wafer, ai-power gas turbines, nuclear-fuel enrichment, space-starlink launch, cloud CoWoS. Gate only: cybersecurity remediation, ai-power interconnection and transformers, nuclear-fuel conversion, space-starlink spectrum. Capture only: cybersecurity runtime, ai-power existing fleet, space-starlink operators, cloud accelerators and hyperscalers.
+
+## library · 2026-09-24 (sellers and customers)
+
+- **Layer Map cards now split sellers from customers (v23)** at the user's request, via new node fields `sellers` and `customers`, written from structure already on the pages plus well-known contracts (Microsoft/Meta at CoreWeave and Nebius, Constellation/Talen PPAs, T-Mobile with SpaceX, AT&T/Verizon with AST, Apple with Globalstar). Tag: structure, not re-searched this run.
+- **Finding the split made visible:** in nuclear-fuel the reactor owner is the customer at every stage (buys uranium, then pays separately for conversion, SWU and fabrication), so no fuel-chain company sells to another. In cloud the chain closes on itself: hyperscalers are customers of the accelerator layer and sellers to the same AI labs whose commitments fill their backlog.
