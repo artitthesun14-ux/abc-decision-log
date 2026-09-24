@@ -87,3 +87,10 @@
 - **Tags moved:** Solstice nuclear exposure UNKNOWN to ~11% ($125M of $1,148M, Q2 2026, INFERENCE from FACT). RWE exposure to Urenco UNKNOWN to ~2% of adjusted EBITDA (one third of Urenco H1 EBITDA EUR 221.8M vs RWE EUR 3B, INFERENCE). Micron DRAM share 79% to 76% (FQ3 2026, FACT).
 - **Findings the chain alone did not show:** Samsung's self-cancelling position is now in one quarter (memory op profit KRW 89.2T, MX loss KRW 0.7T, FACT). Centrus is not capturing the SWU spike yet (avg SWU price +3%, LEU gross profit +2%, FACT): legacy contracts gate the price. SpaceX ARPU fell to $66 from $85 while Connectivity margin held 38.6%: growth is volume, not price (FACT). GEV capacity is funded by customer deposits ($6.4B working-capital inflow vs $0.4B capex, Q2 2026).
 - **Stopped short:** ROIC not reported or computed for any card; Siemens Energy quarterly FCF conflicts across secondary sources; Micron FQ4 due 2026-09-30; Akamai, Siemens Energy debt not checked.
+
+## library · 2026-09-24 (valuation context)
+
+- **Policy change at the user's request:** Financial Layer cards now carry valuation context as a sixth line, below the verdict. Allowed: dated market value and one or two multiples against own history or peers, and what the price already assumes. Still out: fair value, target price, cheap/expensive calls, DCF, entry, timing. The verdict still reads evidence only. Skill Compliance section updated to match.
+- **Tension surfaced:** SK Hynix, Micron and Samsung trade at roughly 4-7x forward earnings on 76-85% margins, the pattern of a priced cycle peak. The market reads the DRAM shortage as cyclical; the local-llm-memory thesis reads it as structural. Tag: INFERENCE. This is the counter-thesis the next refresh of that topic owes an answer to.
+- **Overlooked names read as overlooked in price too:** Caterpillar ~25-28x forward vs GE Vernova ~38x; Akamai ~16.5x forward vs CrowdStrike ~147x. Constellation sits ~36% below its 52-week high despite raised guidance.
+- **Stopped short:** multiples come from aggregators and disagree (Micron forward P/E quoted 5.8 to 116); Samsung market cap and Cameco current market cap not checked.
