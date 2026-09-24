@@ -5,4 +5,4 @@ Decision log for `/abc` topic runs (skill: `skills/misc/abc/SKILL.md` in `artitt
 - `decision-log.md`: one entry per run, newest at the bottom. Reversals name the entry they overturn.
 - `artifact-url`: the published library artifact.
 
-To restore in a new container: copy both files to `~/.cache/abc/`.
+The `/abc` skill clones this repo at `~/.cache/abc/`, pulls before each run and pushes after every write.
