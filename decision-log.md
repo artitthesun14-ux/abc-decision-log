@@ -114,3 +114,8 @@
 
 - **Layer Map cards now split sellers from customers (v23)** at the user's request, via new node fields `sellers` and `customers`, written from structure already on the pages plus well-known contracts (Microsoft/Meta at CoreWeave and Nebius, Constellation/Talen PPAs, T-Mobile with SpaceX, AT&T/Verizon with AST, Apple with Globalstar). Tag: structure, not re-searched this run.
 - **Finding the split made visible:** in nuclear-fuel the reactor owner is the customer at every stage (buys uranium, then pays separately for conversion, SWU and fabrication), so no fuel-chain company sells to another. In cloud the chain closes on itself: hyperscalers are customers of the accelerator layer and sellers to the same AI labs whose commitments fill their backlog.
+
+## library · 2026-09-24 (trade lines)
+
+- **Layer Map draws who sells to whom (v24)** at the user's request, via new node field `sells_to` (ids of the layers where a layer's customers appear), read off the existing sellers/customers lists; 39 links across six topics, nothing re-searched. Lines sit in a left gutter: all at once behind a toggle (remembered per viewer), or one layer's full upstream and downstream path from its "ดูเส้น" button, with the matching buyer names highlighted.
+- **Why not "next layer down":** the stack is causal order, not the flow of goods. Cloud runs foundry (05) up to accelerators (04), then down to hyperscalers and GPU landlords (07, 08), then back up to demand (02). Nuclear-fuel links all run to reactor owners (07), repeating the finding above.
