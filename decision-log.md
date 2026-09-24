@@ -80,3 +80,10 @@
 ## library · 2026-09-24 (ticker check)
 
 - Checked the tickers set from memory: Montage 688008.SS plus 6809.HK (HK listing 2026-01-09); Westinghouse via CCJ · BEP holds (IPO targeted, public filing as soon as Oct 2026, no ticker yet); Global Nuclear Fuel via GEV · 6501.T holds; Kazatomprom KAP.L holds. Sinopec was only in the removed hormuz-shock topic.
+
+## library · 2026-09-24 (financial layer)
+
+- **New view:** each topic now carries a Financial Layer (step 8 read per listed Advantaged/Overlooked company: exposure, margin + pricing evidence, FCF/capex, ROIC, balance sheet, then a verdict on whether the thesis shows in the numbers). Valuation and WACC left out on purpose (output is shared). 21 cards, figures via search as of Q2 2026 (sec.gov blocked).
+- **Tags moved:** Solstice nuclear exposure UNKNOWN to ~11% ($125M of $1,148M, Q2 2026, INFERENCE from FACT). RWE exposure to Urenco UNKNOWN to ~2% of adjusted EBITDA (one third of Urenco H1 EBITDA EUR 221.8M vs RWE EUR 3B, INFERENCE). Micron DRAM share 79% to 76% (FQ3 2026, FACT).
+- **Findings the chain alone did not show:** Samsung's self-cancelling position is now in one quarter (memory op profit KRW 89.2T, MX loss KRW 0.7T, FACT). Centrus is not capturing the SWU spike yet (avg SWU price +3%, LEU gross profit +2%, FACT): legacy contracts gate the price. SpaceX ARPU fell to $66 from $85 while Connectivity margin held 38.6%: growth is volume, not price (FACT). GEV capacity is funded by customer deposits ($6.4B working-capital inflow vs $0.4B capex, Q2 2026).
+- **Stopped short:** ROIC not reported or computed for any card; Siemens Energy quarterly FCF conflicts across secondary sources; Micron FQ4 due 2026-09-30; Akamai, Siemens Energy debt not checked.
